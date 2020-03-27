@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: master
+display_url: https://purespace.ist/
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+collections:
+  - name: "posts"
+    label: "Posts"
+    label_singular: "Post"
+    description: >
+      Posts (blog entries), visible in indexes and RSS feeds.
+    folder: "posts"
+    create: true
+    format: "yaml-frontmatter"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Updated", name: "updated", widget: "datetime", required: false}
+      - {label: "Status", name: "status", widget: "select", options: ["published", "featured", "draft", "private"], required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Category", name: "category", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    description: >
+      Pages (stories), used to display information outside of indexes/feeds.
+    folder: "pages"
+    create: true
+    format: "yaml-frontmatter"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Updated", name: "updated", widget: "datetime", required: false}
+      - {label: "Status", name: "status", widget: "select", options: ["published", "featured", "draft", "private"], required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Category", name: "category", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
