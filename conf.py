@@ -20,7 +20,7 @@ BLOG_AUTHOR = "purespace"  # (translatable)
 BLOG_TITLE = "purespace.ist"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://purespace.netlify.com/"
+SITE_URL = "https://purespace.netlify.app/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -152,7 +152,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "purespace"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -1284,7 +1284,7 @@ EXTRA_HEAD_DATA = """\
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
 # Defaults to True.
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
