@@ -3,7 +3,16 @@
 {% import 'base_header.tmpl' as header with context %}
 {% import 'base_footer.tmpl' as footer with context %}
 {{ set_locale(lang) }}
-{#  <html> tag is included by base.html_headstart #}
+<!DOCTYPE html>
+<html \
+    prefix='og: http://ogp.me/ns# article: http://ogp.me/ns/article#' \
+    vocab="http://ogp.me/ns" \
+{% if is_rtl %}
+    dir="rtl"
+{% endif %}
+
+lang="{{ lang }}">
+<head>
 {{ base.html_headstart() }}
 {% block extra_head %}
 {#  Leave this block alone. #}
@@ -12,13 +21,11 @@
 </head>
 <body>
     <a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
-    <div id="container">
-        {{ header.html_header() }}
-        <main id="content">
-            {% block content %}{% endblock %}
-        </main>
-        {{ footer.html_footer() }}
-    </div>
+    {{ header.html_header() }}
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+    {{ footer.html_footer() }}
     {{ base.late_load_js() }}
     {% block extra_js %}{% endblock %}
     {{ body_end }}
