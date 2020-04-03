@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/biz-kimiz/", "biz kimiz?"),
         ("/acik-cagri/", "açık çağrı"),
-        ("/iletişim/", "iletişim"),
+        ("/iletisim/", "iletişim"),
     ),
 }
 
