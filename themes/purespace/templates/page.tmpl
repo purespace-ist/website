@@ -1,0 +1,12 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% extends 'post.tmpl' %}
+
+{% block content %}
+<div class="container">
+    <section class="section">
+    {{ post.text() }}
+    </section>
+</div>
+{% endblock %}

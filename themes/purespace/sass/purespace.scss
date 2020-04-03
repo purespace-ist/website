@@ -1,2 +1,35 @@
 @charset "utf-8";
-@import "./bulma-0.8.0/bulma.sass";
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif:600&display=swap');
+
+
+$black: hsl(0, 0%, 0%);
+
+$family-serif: "PT Serif", serif;
+$family-sans-serif: "PT Sans", sans-serif;
+$text: $black;
+$weight-normal: 600;
+
+$footer-background-color: inherit;
+
+$subtitle-size: 1.5rem;
+
+
+@import "./bulma-0.8.0/sass/utilities/_all.sass";
+@import "./bulma-0.8.0/sass/base/_all.sass";
+@import "./bulma-0.8.0/sass/elements/_all.sass";
+@import "./bulma-0.8.0/sass/form/_all.sass";
+@import "./bulma-0.8.0/sass/components/_all.sass";
+@import "./bulma-0.8.0/sass/grid/_all.sass";
+@import "./bulma-0.8.0/sass/layout/_all.sass";
+
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("/images/bg.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
