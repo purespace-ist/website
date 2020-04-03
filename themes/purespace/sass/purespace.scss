@@ -10,6 +10,7 @@ $family-sans-serif: "PT Sans", sans-serif;
 $text: $black;
 $weight-normal: 600;
 
+$navbar-background-color: inherit;
 $footer-background-color: inherit;
 
 $subtitle-size: 1.5rem;
@@ -36,4 +37,20 @@ body {
 
 body.landing {
     background: #ffffff;
+}
+
+.navbar {
+    display: block;
+}
+
+.navbar-menu {
+    display: flex;
+}
+
+.navbar-menu ul {
+    display: inline-flex;
+}
+
+.navbar-item {
+    font-size: 1.2em;
 }

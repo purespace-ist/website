@@ -138,9 +138,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/arsiv.html", "Arşiv"),
-        ("/kategoriler/", "Etiketler"),
-        ("/rss.xml", "RSS beslemesi"),
+        ("/biz-kimiz/", "biz kimiz?"),
+        ("/acik-cagri/", "açık çağrı"),
+        ("/iletişim/", "iletişim"),
     ),
 }
 
