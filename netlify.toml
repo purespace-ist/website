@@ -1,4 +1,4 @@
 [build]
   base    = ""
   publish = "output"
-  command = "npm install node-sass && nikola build"
+  command = "npm install && nikola build"
