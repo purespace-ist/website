@@ -20,7 +20,7 @@ BLOG_AUTHOR = "purespace"  # (translatable)
 BLOG_TITLE = "purespace.ist"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://purespace.netlify.app/"
+SITE_URL = "http://purespace.ist/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
