@@ -143,7 +143,7 @@ NAVIGATION_LINKS = {
         ("/iletisim/", "iletişim"),
     ),
     "en": (
-        ("/en/about-us/", "about us"),
+        ("/en/who-we-are/", "who we are"),
         ("/en/open-call/", "open call"),
         ("/en/contact/", "contact"),
     ),
