@@ -142,6 +142,11 @@ NAVIGATION_LINKS = {
         ("/acik-cagri/", "açık çağrı"),
         ("/iletisim/", "iletişim"),
     ),
+    "en": (
+        ("/en/about-us/", "about us"),
+        ("/en/open-call/", "open call"),
+        ("/en/contact/", "contact"),
+    ),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
