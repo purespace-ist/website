@@ -5,22 +5,29 @@ title: Ezgi Türker
 ---
 # Ezgi Türker
 
-Ezgi Türker (1992) Boğaziçi Üniversitesi
-Siyaset Bilimi ve Uluslararası İlişkiler bölümünden lisans,
+Ezgi Türker (1992) Boğaziçi Üniversitesi Siyaset Bilimi ve Uluslararası İlişkiler
+bölümünde lisans eğitimini,
 Central European University Siyaset Bilimi alanında Master’ını tamamladı.
+Şu anda Expedia Group şirketinde Pazar Sorumlusu olarak çalışıyor.
 Root(?)less isimli işiyle, Mavidans Dans ve Bale Okulu’ndan
 MEB onaylı Modern Dans sertifikasını aldı.
-Ufuk Şenel'in koreografisini yaptığı "Un vie, combien ça coute?"
-ve "gaze into the void" adlı işlerinde performansçı olarak yer almaktadır.
-2019 yılında, Şima Uyar'la birlikte çağdaş dans tarihini dokümantasyon
-amacı güden Çağdaş Dans Araştırmaları ve Performatif Sunumlar Serisi’nin
-ilk projesi olarak Yvonne Rainer ve "No Manifesto" üzerine "Trio F5"
-adlı çalışmayı üretmiş ve çeşitli mekanlarda icra etmiştir.
-Yine 2019’da, Merce Cunningham’ın 100. doğum yılı kapsamında
-yapılan kutlamalar çerçevesinde Merce Cunningham ve rastlantısal koreografi
-üzerine "Heads/Tails" adlı işi üretmiştir.
-CEU’nun Türkiye mezun lideridir ve BoMoVu’da "Hareketin Özgür" isimli projede
-gönüllüdür.
-Şu anda, akademi için ve akademiyle ilgili bir kollektif hafıza
-oluşturmak için kurulmuş “Off-Library” inisiyatifiyle ilgileniyor
-ve Expedia Group’ta çalışıyor. 
+Modern dans çalışmaları kapsamında, Nurhan Nebioğlu dışında Ayda Zorlu,
+Bengi Sevim, Ayrin Ersöz, Canan Yücel Pekiçten, Aslı Öztürk, Pınar Güremek
+gibi dansçılardan çağdaş dans tekniği dersleri aldı.
+Ayrıca çeşitli mekanlarda sunulan workshoplarda Yoshiko Chuma, Deniz Alp,
+Melissa Ugolini, Alex Miklosy, Cansu Ergin ve Blenard Azizaj
+gibi isimlerle çalışma fırsatı oldu.
+Ufuk Şenel'in koreografisini yaptığı "Un vie, combien ça coute?"
+ve "gaze into the void" adlı işlerde performansçı olarak yer almaktadır.
+Ş̧ima Uyar'la birlikte çağdaş dans tarihi üzerine araştırmalar yapmak
+ve performatif-sunumlar üretmek üzerine bir seri çalışması başlattı.
+Bu serinin Yvonne Rainer, "No Manifesto” ve Trio A üzerine olan ilk işi,
+"Trio F5", "A Corner in the World" çerçevesinde
+SALT Beyoğlu’nda ve farklı mekanlarda izleyicilerin beğenisine sunulmuştur.
+2019’da, serinin ikinci işi olarak Şima Uyar’la birlikte,
+Merce Cunningham’ın 100. doğum yılı kapsamında yapılan kutlamalar çerçevesinde
+Merce Cunningham ve rastlantısal koreografi üzerine "Heads/Tails"
+adlı işi üretmiştir.
+2020 yılında hayata geçen PURESPACE’e dahil olup,
+halen bu oluşum kapsamında artistik üretimlerini
+ve akademik çalışmalarını sürdürmektedir.

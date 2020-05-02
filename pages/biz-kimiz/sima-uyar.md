@@ -5,42 +5,34 @@ title: Şima Uyar
 ---
 # Şima Uyar
 
-Şima Uyar (1968) İstanbul Teknik Üniversitesi'nde
-Kontrol ve Bilgisayar Mühendisliği bölümünde lisans, yüksek lisans ve doktora
-eğitimini tamamladıktan sonra 2019 yılına kadar
-aynı üniversitenin Bilgisayar Mühendisliği Bölümü'nde doçent öğretim üyesi
-olarak çalıştı.
-Halen Fatih Sultan Mehmet Vakıf Üniversitesi
-Bilgisayar Mühendisliği Bölümü’nde profesör olarak görev yapmaktadır.
+Şima Uyar, İTÜ Kontrol ve Bilgisayar Mühendisliği bölümünde
+lisans, yüksek lisans ve doktora eğitimini tamamladıktan sonra
+2019 yılına kadar aynı üniversitenin Bilgisayar Mühendisliği Bölümü'nde
+doçent olarak çalıştı.
+Halen FSMVÜ Bilgisayar Mühendisliği Bölümü’nde profesör olarak görev yapmaktadır.
 
-1973 yılında girdiği Olga Nuray Olcay bale kursundan
-M.E.B. onaylı bale sertifikasını aldıktan sonra
-1995 yılına kadar çeşitli okullarda bale eğitimi almaya devam etti.
-Modern dansa 1991 yılında Dans Akademik'te başladı.
-Burada Haldun Yedican’dan ders aldı ve Yeşil Üzümler topluluğu kurucularından
-Sema Güven, Mustafa Kaplan ve Ziya Azazi ile ortaklaşa çalışarak
-"Bütünleşmek" adlı işi üretti.
-2013-2018 yılları arasında Mavidans Bale ve Dans Okulu'nda
-modern dans çalışmalarına devam etti ve M.E.B. onaylı
-modern dans sertifikasını aldı.
-Bu sırada koreografilerini Nurhan Nebioğlu'nun yaptığı işlerde sahneye çıktı.
-2017 yılında Mavidans'tan bitirme projesi olarak "Ouroboros" adlı işi üretti.
-Modern dans çalışmaları kapsamında ayrıca Ayda Zorlu, Bengi Sevim,
-Julia Ritter, Ayrin Ersöz, Canan Yücel Pekiçten, Serhat Kural, Melih Kıraç,
-Aslı Öztürk, Mihran Tomasyan ve Alper Marangoz gibi dansçılardan
+1983’te Olga Nuray Olcay bale kursundan sertifikasını aldıktan sonra
+1995 yılına kadar çeşitli okullarda bale eğitimine devam etti.
+1991’de Dans Akademik’te Haldun Yedican’la modern dansa başladı
+ve aynı kurumda Candaş Baş, Mustafa Kaplan ve Ziya Azazi gibi isimlerle
+birlikte çalıştı.
+2013-2018 arasında Mavidans Bale ve Dans Okulu'nda
+Nurhan Nebioğlu ile modern dans çalışmalarına devam etti
+ve uzmanlık sertifikasını aldı.
+Bu süreçte Bengi Sevim, Julia Ritter, Ayrin Ersöz, Canan Yücel Pekiçten,
+Serhat Kural, Yeşim Coşkun, Aslı Öztürk ve Melih Kıraç gibi dansçılardan
 çağdaş dans tekniği dersleri aldı;
-Barış Mıhçı tarafından verilen Axis Syllabus atölyelerine katıldı.
-Ayrıca İstanbul'da düzenlenen workshoplarda Yoshiko Chuma, Francisco Camacho,
-Leyla Postalcıoğlu, Deniz Alp, Candaş Baş, Kamola Rashidova,
-Melissa Ugolini gibi isimlerle çalışma fırsatı oldu.
-2014 yılından beri Ufuk Şenel'in çağdaş dans tekniği,
-doğaçlama ve koreografik araştırmalar ile ilgili derslerine
-düzenli olarak devam etmektedir.
-Aynı zamanda Şenel'in koreografisini yaptığı "Un vie, combien ça coute?"
-ve "gaze into the void" adlı işlerinde dans etmektedir.
-2019 yılında Ezgi Türker işbirliğiyle geliştirdikleri
-Çağdaş Dans Araştırmaları ve Performatif-Sunumlar adlı serinin
-ilk projesi olarak Yvonne Rainer üzerine "Trio F5" adlı işi
-ve yine aynı yıl sonunda bu serinin ikinci projesi olan
-Merce Cunningham üzerine de “Heads/Tails” adlı işi yaptı.
-Halen yeni projeleri üzerinde çalışmaktadır.
+Barış Mıhçı’nın Axis Syllabus atölyelerine katıldı.
+Ayrıca çeşitli atölyelerde Yoshiko Chuma, Francisco Camacho, Leyla Postalcıoğlu,
+Kamola Rashidova, Melissa Ugolini gibi isimlerle de çalışma fırsatı oldu.
+2014 yılında çalışmaya başladığı Ufuk Şenel ile halen farklı kapsamlarda
+işbirlikleri geliştirmektedir.
+2019’da Ezgi Türker işbirliği ile başlattığı proje,
+çağdaş dans tarihi ile ilgili araştırmalar yapmak
+ve önemli dansçılar/koreograflar hakkında performatif-sunumlar üretmek üzerine
+bir seriye dönüştü.
+Bu serinin ilk çalışması olarak Yvonne Rainer üzerine "Trio F5" adlı işi yaptılar.
+Merce Cunningham’ın koreografi geliştirme yönteminden yola çıkarak üretilen
+"Heads/Tails”" ise serinin ikinci işi oldu.
+Şima Uyar, 2020 yılında hayata geçen PURESPACE’in kurucu ve yöneticilerinden olup,
+halen bu oluşum bünyesinde artistik üretimlerini ve akademik çalışmalarını sürdürmektedir.
