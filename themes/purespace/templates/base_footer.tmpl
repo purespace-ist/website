@@ -1,24 +1,10 @@
-{#  -*- coding: utf-8 -*- #}
+## -*- coding: utf-8 -*-
 
-{% macro html_footer() %}
-    {% if content_footer %}
-        <footer class="footer">
-            <nav class="level is-mobile">
-                <div class="level-item">
-                    <figure class="image is-48x48">
-                        <a href="https://instagram.com/purespace.ist/" target="_blank">
-                            <img src="/images/instagram.svg" alt="Instagram logosu" width="48" height="48">
-                        </a>
-                    </figure>
-                    <figure class="image is-48x48">
-                        <a href="https://www.facebook.com/purespaceist-101777448122070/" target="_blank">
-                            <img src="/images/facebook.svg" alt="FaceBook logosu" width="48" height="48">
-                        </a>
-                    </figure>
-                </div>
-            </nav>
-            <p><small>{{ content_footer }}</small></p>
-            {{ template_hooks['page_footer']() }}
+<%def name="html_footer()">
+    %if content_footer:
+        <footer>
+            <p>${content_footer}</p>
+            ${template_hooks['page_footer']()}
         </footer>
-    {% endif %}
-{% endmacro %}
+    %endif
+</%def>
