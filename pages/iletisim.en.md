@@ -1,11 +1,11 @@
 ---
 date: 2020-04-04 00:07:54 UTC+03:00
-slug: iletisim
-title: İletişim
+slug: contact
+title: Contact
 ---
-e-posta: purespace@purespace.ist
+e-mail: purespace@purespace.ist
 
-telefon: 0546 817 71 75
+phone: 0546 817 71 75
 
 ## PS01
 
