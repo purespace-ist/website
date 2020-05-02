@@ -1,8 +1,10 @@
 {#  -*- coding: utf-8 -*- #}
 {% extends 'post.tmpl' %}
+{% import 'post_header.tmpl' as pheader with context %}
 
 {% block content %}
 <div class="container">
+    {{ pheader.html_translations(post) }}
     <section class="section">
         <div class="content">
             {{ post.text() }}
