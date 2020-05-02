@@ -1,6 +1,6 @@
 ---
 date: 2020-04-03 23:03:03 UTC+03:00
-slug: sima-uyar
+slug: about-us/sima-uyar
 title: Şima Uyar
 ---
 # Şima Uyar

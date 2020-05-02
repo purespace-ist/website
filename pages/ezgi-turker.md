@@ -1,6 +1,6 @@
 ---
 date: 2020-04-03 23:03:03 UTC+03:00
-slug: ezgi-turker
+slug: biz-kimiz/ezgi-turker
 title: Ezgi Türker
 ---
 # Ezgi Türker
