@@ -1,10 +1,18 @@
 ## -*- coding: utf-8 -*-
 
 <%def name="html_footer()">
-    %if content_footer:
         <footer>
+            <p class="social">
+                <a href="https://instagram.com/purespace.ist/" target="_blank">
+                    <img src="/images/instagram.svg" alt="Instagram logosu" width="48" height="48">
+                </a>
+                <a href="https://www.facebook.com/purespaceist-101777448122070/" target="_blank">
+                    <img src="/images/facebook.svg" alt="FaceBook logosu" width="48" height="48">
+                </a>
+            </p>
+            %if content_footer:
             <p>${content_footer}</p>
             ${template_hooks['page_footer']()}
+            %endif
         </footer>
-    %endif
 </%def>

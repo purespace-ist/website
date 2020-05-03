@@ -197,23 +197,6 @@
 	line-height: 1;
 }
 
-/* Links */
-:link {
-	color: #1168CC;
-	text-decoration: none;
-}
-:visited {
-	color: #6830BB;
-}
-:link:hover, :visited:hover {
-	color: #0d53a3;
-}
-
-#brand :link,
-#brand :visited {
-	color: inherit;
-}
-
 /* Images */
 img {
 	border: none;

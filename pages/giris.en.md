@@ -2,6 +2,7 @@
 date: 2020-04-03 03:35:43 UTC+03:00
 slug: intro
 title: purespace.ist
+type: landing
 ---
 PURESPACE is a multidisciplinary and inclusive formation
 that leads and archives creative transformation

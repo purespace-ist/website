@@ -10,8 +10,8 @@
     % else:
     <main id="content">
     % endif
-    ${post.text()}
     ${pheader.html_translations(post)}
+    ${post.text()}
     </main>
     %if site_has_comments and enable_comments and not post.meta('nocomments'):
         <section class="comments">
