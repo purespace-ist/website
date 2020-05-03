@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif:600,800&display=swap');
 
 $picnic-nav-height: 3em;
+$picnic-card-border: 0;
 
 // Imports the base variable styles
 @import './picnic-6.5.2/src/themes/default/theme';
@@ -79,4 +80,16 @@ footer {
 
 h3.posttranslations-intro {
   display: none;
+}
+
+.card {
+  background: transparent;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card h3 {
+  text-align: center;
 }

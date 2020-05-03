@@ -12,12 +12,14 @@ in the Computer Engineering Department of the same university until 2019.
 Currently she is working as a full professor
 in the FSMVU Computer Engineering Department.
 
-After receiving her ballet certificate from Olga Nuray Olcay ballet school in 1983,
+After receiving her ballet certificate
+from Olga Nuray Olcay ballet school in 1983,
 she continued her training until 1995.
 She started her modern dance training with Haldun Yedican
 at the Dans Akademik School in 1991 and worked there with dancers
 such as Candaş Baş, Mustafa Kaplan and Ziya Azazi.
-Between the years 2013 and 2018, she continued her modern dance training
+Between the years 2013 and 2018,
+she continued her modern dance training
 at Mavidans Ballet and Dance School with Nurhan Nebioğlu,
 and achieved her certificate.
 During this period, she took modern dance technique classes
@@ -34,7 +36,7 @@ focusing on conducting research in contemporary dance history
 and giving lecture performances on its prominent figures.
 As the first in this series, they created a lecture performance
 titled "Trio F5" on Yvonne Rainer.
-The lecture performance on Merce Cunningham, titled “Heads/Tails”,
+The lecture performance on Merce Cunningham, titled "Heads/Tails",
 was the second one in the series.
 Şima Uyar is one of the co-founders and managers of PURESPACE,
 which was launched in 2020.
