@@ -2,14 +2,29 @@
 
 @import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif:600,800&display=swap');
 
+
+/* VARIABLES */
+
+// Theme variables
+$black: hsl(0, 0%, 0%);
+$picnic-primary: black;
+$picnic-separation: 1rem;
+
+// Generic plugin variables
+$family-sans: 'PT Sans', 'Helvetica', 'Arial', sans-serif;
+
+// Extra plugin variables
+$nav-background-color: transparent;
+$picnic-nav-height: 3rem;
+$picnic-nav-position: relative;
+$picnic-nav-sides: 2 * $picnic-separation;
+$picnic-card-border: 0;
+
+
+/* PICNIC CSS IMPORTS */
+
 // Imports the base variable styles
 @import './picnic-6.5.2/src/themes/default/theme';
-
-$picnic-primary: $picnic-black;
-$picnic-separation: 1rem;
-$picnic-nav-position: relative;
-$picnic-nav-sides: $picnic-separation;
-$picnic-card-border: 0;
 
 @import './picnic-6.5.2/src/vendor/compass-breakpoint/stylesheets/breakpoint';
 
@@ -18,7 +33,7 @@ $picnic-card-border: 0;
 
 // Generic styles for things like <body>, <a> and others
 // It also overwrites normalize.css a bit
-@import './picnic-6.5.2/src/plugins/generic/plugin';
+@import './plugins/generic/plugin';
 //@import './picnic-6.5.2/src/plugins/fontello/plugin';
 
 // Simple elements
@@ -36,7 +51,7 @@ $picnic-card-border: 0;
 @import './picnic-6.5.2/src/plugins/grid/plugin';
 
 // Extra
-@import './picnic-6.5.2/src/plugins/nav/plugin';
+@import './plugins/nav/plugin';
 
 //@import './picnic-6.5.2/src/plugins/stack/plugin';
 @import './picnic-6.5.2/src/plugins/card/plugin';
@@ -46,6 +61,9 @@ $picnic-card-border: 0;
 //@import './picnic-6.5.2/src/plugins/tabs/plugin';
 //@import './picnic-6.5.2/src/plugins/tooltip/plugin';
 
+
+/* PICNIC CSS OVERRIDES */
+
 body {
   display: flex;
   flex-direction: column;
@@ -53,8 +71,6 @@ body {
   min-height: 100vh;
   background-image: url("/images/bg.jpg");
   background-size: cover;
-  font-family: 'PT Sans', 'Arial', 'Helvetica', sans-serif;
-  font-size: 1.25rem;
   font-weight: 600;
 }
 
@@ -62,62 +78,25 @@ a:hover {
   text-decoration: underline;
 }
 
-nav {
-  background-color: transparent;
-}
-
-nav a {
-  font-size: 1.25em;
-  text-transform: lowercase;
-}
-
-nav li {
-  display: inline-block;
-}
-
-nav .brand,
-nav .menu {
-  float: none;
-}
-
-nav .brand {
-  font-size: 2.5em;
-}
-
-nav .menu {
-  top: 0;
-  padding-left: 1rem;
-}
-
 main {
   max-width: 45em;
-  margin: auto;
-  padding: $picnic-nav-height $picnic-separation $picnic-separation $picnic-separation;
+  margin: 0 auto;
+  padding: 2 * $picnic-separation;
 }
 
-main.landing {
+body > header > nav {
+  background-color: transparent;
+}
+
+body > header > nav li {
+  display: inline-block;
   font-size: 1.25em;
+  text-transform: lowercase;
 }
 
-footer {
+body > footer {
   background-color: transparent;
   padding: $picnic-separation;
-}
-
-footer .social {
-  text-align: center;
-}
-
-.posttranslations {
-  width: 100%;
-  font-size: 0.75em;
-  text-align: right;
-  text-transform: lowercase;
-  margin-bottom: $picnic-separation;
-}
-
-h3.posttranslations-intro {
-  display: none;
 }
 
 .card {
@@ -133,6 +112,41 @@ h3.posttranslations-intro {
   font-size: 1.1em;
 }
 
-.card a:hover {
-  text-decoration: underline;
+
+/* SITE OVERRIDES */
+
+nav .brand,
+nav .menu {
+  float: left;
+  clear: both;
+  margin: 0;
+}
+
+nav .brand {
+  padding-top: 4 * $picnic-separation;
+  font-size: 2em;
+}
+
+nav .menu {
+  padding: 0 $picnic-nav-sides;
+}
+
+body.landing main {
+  font-size: 1.25em;
+}
+
+.posttranslations {
+  width: 100%;
+  font-size: 1.25rem;
+  text-align: right;
+  text-transform: lowercase;
+  margin-bottom: $picnic-separation;
+}
+
+h3.posttranslations-intro {
+  display: none;
+}
+
+body > footer .social {
+  text-align: center;
 }
