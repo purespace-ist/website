@@ -147,6 +147,10 @@ h3.posttranslations-intro {
   display: none;
 }
 
-body > footer .social {
+p.social {
   text-align: center;
+}
+
+p.social a:not(:first-child) {
+  margin-left: $picnic-separation;
 }
