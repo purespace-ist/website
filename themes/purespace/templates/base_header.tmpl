@@ -13,8 +13,8 @@
   ${template_hooks['page_header']()}
 </%def>
 
-<%def name="html_site_title()">
-  <a href="${abs_link(_link("root", None, lang))}" title="${blog_title|h}" rel="home" class="brand">
+<%def name="html_site_title(home_link)">
+  <a href="${home_link[0]}" title="${home_link[1]|h}" rel="home" class="brand">
   %if logo_url:
     <img src="${logo_url}" alt="${blog_title|h}" id="logo">
   %endif
@@ -27,7 +27,8 @@
 
 <%def name="html_navigation_links()">
   <nav aria-label="main navigation">
-    ${html_site_title()}
+    ${html_site_title(navigation_links[lang][0])}
+
 
     <ul class="menu">
       ${html_navigation_links_entries(navigation_links)}
@@ -39,7 +40,7 @@
 </%def>
 
 <%def name="html_navigation_links_entries(navigation_links_source)">
-  %for url, text in navigation_links_source[lang]:
+  %for url, text in navigation_links_source[lang][1:]:
     % if isinstance(url, tuple):
       <li>${text}
       <ul>

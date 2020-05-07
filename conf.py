@@ -138,11 +138,13 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/giris/", "purespace.ist"),
         ("/biz-kimiz/", "biz kimiz?"),
         ("/acik-cagri/", "açık çağrı"),
         ("/iletisim/", "iletişim"),
     ),
     "en": (
+        ("/en/intro/", "purespace.ist"),
         ("/en/who-we-are/", "who we are"),
         ("/en/open-call/", "open call"),
         ("/en/contact/", "contact"),
