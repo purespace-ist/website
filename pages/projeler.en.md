@@ -2,7 +2,7 @@
 date: 2020-05-07 22:12:54 UTC+03:00
 slug: projects
 title: projects
-type: text
+type: projects
 ---
 ## The possibilities of a choreography: creating through digital media
 
