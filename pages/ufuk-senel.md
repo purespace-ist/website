@@ -2,6 +2,7 @@
 date: 2020-04-03 23:03:03 UTC+03:00
 slug: biz-kimiz/ufuk-senel
 title: Ufuk Şenel
+type: text
 ---
 # Ufuk Şenel
 

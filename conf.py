@@ -141,12 +141,14 @@ NAVIGATION_LINKS = {
         ("/giris/", "purespace.ist"),
         ("/biz-kimiz/", "biz kimiz?"),
         ("/acik-cagri/", "açık çağrı"),
+        ("/projeler/", "projeler"),
         ("/iletisim/", "iletişim"),
     ),
     "en": (
         ("/en/intro/", "purespace.ist"),
         ("/en/who-we-are/", "who we are"),
         ("/en/open-call/", "open call"),
+        ("/en/projects/", "projects"),
         ("/en/contact/", "contact"),
     ),
 }

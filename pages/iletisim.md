@@ -1,7 +1,8 @@
 ---
 date: 2020-04-04 00:07:54 UTC+03:00
 slug: iletisim
-title: İletişim
+title: iletişim
+type: text
 ---
 e-posta: purespace@purespace.ist
 
