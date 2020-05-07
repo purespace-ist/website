@@ -124,11 +124,12 @@ nav .menu {
 
 nav .brand {
   padding-top: 4 * $picnic-separation;
+  padding-left: 0;
   font-size: 2em;
 }
 
 nav .menu {
-  padding: 0 $picnic-nav-sides;
+  padding: 0;
 }
 
 body.landing main {
