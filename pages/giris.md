@@ -2,7 +2,7 @@
 date: 2020-04-03 03:35:43 UTC+03:00
 slug: giris
 title: purespace.ist
-type: landing
+body_class: landing
 ---
 PURESPACE bütün kültür ve sanat disiplinlerinde
 yaratıcı dönüşüme önayak olan ve arşivleyen,
