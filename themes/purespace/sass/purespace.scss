@@ -124,17 +124,15 @@ nav .brand,
 nav .menu {
   float: left;
   clear: both;
-  margin: 0;
+  padding: 0;
 }
 
 nav .brand {
-  padding-top: 4 * $picnic-separation;
-  padding-left: 0;
-  font-size: 2em;
+  margin: 4 * $picnic-separation 0 0.8em 0;
 }
 
 nav .menu {
-  padding: 0;
+  margin: 0;
 }
 
 body.landing main {

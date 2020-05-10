@@ -1,20 +1,14 @@
+<%namespace name="helper" file="post_helper.tmpl"/>
 <%namespace name="pheader" file="post_header.tmpl"/>
 <%namespace name="comments" file="comments_helper.tmpl"/>
 <%namespace name="math" file="math_helper.tmpl"/>
-<%inherit file="post.tmpl"/>
+<%inherit file="story.tmpl"/>
 
 <%block name="content">
-  <main id="content">
     ${pheader.html_translations(post)}
     ${post.text()}
-
-    %if site_has_comments and enable_comments and not post.meta('nocomments'):
-      <section class="comments">
-        <h2>${messages("Comments")}</h2>
-        ${comments.comment_form(post.permalink(absolute=True), post.title(), post.base_path)}
-      </section>
-    %endif
-  </main>
-
-  ${math.math_scripts_ifpost(post)}
+    ${helper.html_comments(post)}
+    ${math.math_scripts_ifpost(post)}
+    <%block name="extra_content"></%block>
+${comments.comment_link_script()}
 </%block>
