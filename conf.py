@@ -142,6 +142,7 @@ NAVIGATION_LINKS = {
         ("/biz-kimiz/", "biz kimiz?"),
         ("/acik-cagri/", "açık çağrı"),
         ("/projeler/", "projeler"),
+        ("/yakinda/", "yakında"),
         ("/iletisim/", "iletişim"),
     ),
     "en": (
@@ -149,6 +150,7 @@ NAVIGATION_LINKS = {
         ("/en/who-we-are/", "who we are"),
         ("/en/open-call/", "open call"),
         ("/en/projects/", "projects"),
+        ("/en/upcoming/", "upcoming"),
         ("/en/contact/", "contact"),
     ),
 }
@@ -1361,7 +1363,7 @@ GLOBAL_CONTEXT = {}
 GLOBAL_CONTEXT_FILLER = []
 
 # Compiler to process Sass files.
-SASS_COMPILER = './node_modules/node-sass/bin/node-sass'
+SASS_COMPILER = './node_modules/.bin/node-sass'
 
 # A list of options to pass to the Sass compiler.
 # Final command is: SASS_COMPILER SASS_OPTIONS file.s(a|c)ss

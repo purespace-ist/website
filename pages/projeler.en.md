@@ -26,7 +26,7 @@ When the project is completed, the performance will meet with its audience
 both in a physical location and on an online platform.
 
 
-## Co-Solo
+## Co-Solo<a name="cosolo"></a>
 
 As PURESPACE, in the Co-Solo project we initiated,
 we will be hosting artists from the performing  arts discipline

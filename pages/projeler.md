@@ -26,7 +26,7 @@ hem fiziki bir mekanda hem de online bir platform üzerinden
 izleyiciyle buluşacak.
 
 
-## Co-Solo
+## Co-Solo<a name="cosolo"></a>
 
 PURESPACE olarak başlattığımız Co-Solo projesinde,
 Mayıs ayı boyunca her Çarşamba ve Cuma günü,
