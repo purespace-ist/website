@@ -25,7 +25,10 @@ SITE_URL = "https://purespace.ist/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "purespace@purespace.ist"
-BLOG_DESCRIPTION = "purespace performans alanı."  # (translatable)
+BLOG_DESCRIPTION = {
+    "tr": "purespace performans alanı.",
+    "en": "purespace performance area.",
+}
 
 # Nikola is multilingual!
 #
@@ -97,7 +100,7 @@ DEFAULT_LANG = "tr"
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
-    DEFAULT_LANG: "",
+    "tr": "",
     "en": "./en",
 }
 
@@ -137,13 +140,14 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
+    "tr": (
         ("/giris/", "purespace.ist"),
         ("/biz-kimiz/", "biz kimiz?"),
         ("/acik-cagri/", "açık çağrı"),
         ("/projeler/", "projeler"),
         ("/yakinda/", "yakında"),
         ("/iletisim/", "iletişim"),
+#        ("/blog/", "Blog"),
     ),
     "en": (
         ("/en/intro/", "purespace.ist"),
@@ -152,6 +156,7 @@ NAVIGATION_LINKS = {
         ("/en/projects/", "projects"),
         ("/en/upcoming/", "upcoming"),
         ("/en/contact/", "contact"),
+#        ("/en/blog/", "Blog"),
     ),
 }
 
@@ -365,8 +370,10 @@ METADATA_FORMAT = "YAML"
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag RSS_EXTENSION (RSS feed for a tag)
-# (translatable)
-# TAG_PATH = "categories"
+TAG_PATH = {
+    "tr": "kategoriler",
+    "en": "categories",
+}
 
 # By default, the list of tags is stored in
 #     output / TRANSLATION[lang] / TAG_PATH / index.html
@@ -427,8 +434,10 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / index.html (list of categories)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
-# (translatable)
-# CATEGORY_PATH = "categories"
+CATEGORY_PATH = {
+    "tr": "kategoriler",
+    "en": "categories",
+}
 # CATEGORY_PREFIX = "cat_"
 
 # By default, the list of categories is stored in
@@ -577,7 +586,10 @@ FRONT_INDEX_HEADER = {
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
 # (translatable)
 # ARCHIVE_PATH = ""
-# ARCHIVE_FILENAME = "archive.html"
+ARCHIVE_FILENAME = {
+    "tr": "arsiv.html",
+    "en": "archive.html",
+}
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
 # of posts will contain the posts themselves. If set to False, it will be just a
@@ -943,7 +955,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '&copy; {date}         <a href="mailto:{email}">{author}</a>          {license}'
+CONTENT_FOOTER = '&copy; {date}         {author}          {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -972,7 +984,7 @@ CONTENT_FOOTER_FORMATS = {
 
 # A simple copyright tag for inclusion in RSS feeds that works just
 # like CONTENT_FOOTER and CONTENT_FOOTER_FORMATS
-RSS_COPYRIGHT = 'Contents © {date} <a href="mailto:{email}">{author}</a> {license}'
+RSS_COPYRIGHT = 'Contents © {date} {author} {license}'
 RSS_COPYRIGHT_PLAIN = 'Contents © {date} {author} {license}'
 RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 
