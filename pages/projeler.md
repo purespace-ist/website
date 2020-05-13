@@ -1,8 +1,6 @@
 ---
-date: 2020-05-07 22:12:54 UTC+03:00
-slug: projeler
 title: projeler
-type: projects
+body_class: projects
 ---
 ## Bir koreografinin imkanları: dijital ortamlar aracılılığıyla iş üretmek
 

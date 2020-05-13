@@ -1,6 +1,4 @@
 ---
-date: 2020-04-03 03:35:43 UTC+03:00
-slug: giris
 title: purespace.ist
 body_class: landing
 ---

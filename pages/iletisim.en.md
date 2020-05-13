@@ -1,8 +1,6 @@
 ---
-date: 2020-04-04 00:07:54 UTC+03:00
 slug: contact
 title: contact
-type: text
 ---
 e-mail: purespace@purespace.ist
 

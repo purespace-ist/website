@@ -1,8 +1,6 @@
 ---
-date: 2020-04-03 22:20:14 UTC+03:00
 slug: open-call
 title: open call
-type: text
 ---
 # OPEN CALL
 

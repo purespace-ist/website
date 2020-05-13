@@ -1,8 +1,5 @@
 ---
-date: 2020-04-03 22:20:14 UTC+03:00
-slug: acik-cagri
 title: açık çağrı
-type: text
 ---
 # AÇIK ÇAĞRI
 
