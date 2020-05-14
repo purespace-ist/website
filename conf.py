@@ -237,7 +237,16 @@ POSTS = (
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
 )
+# PAGES = (
+#     ("pages/*.md", "", "page.tmpl"),
+#     ("pages/*.rst", "", "page.tmpl"),
+#     ("pages/*.txt", "", "page.tmpl"),
+#     ("pages/*.html", "", "page.tmpl"),
+# )
+# Use hierarchical pages instead of pages:
 PAGES = (
+)
+HIERARCHICAL_PAGES = (
     ("pages/*.md", "", "page.tmpl"),
     ("pages/*.rst", "", "page.tmpl"),
     ("pages/*.txt", "", "page.tmpl"),
