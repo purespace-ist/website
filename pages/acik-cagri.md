@@ -1,7 +1,5 @@
 ---
 title: açık çağrı
-date: ""
-updated: ""
 ---
 # AÇIK ÇAĞRI
 
@@ -17,5 +15,4 @@ Bu çerçevede, oluşturulacak belleğe performatif üretimlerle katkıda bulunm
 
 Bu projede, gönderilen işleri ilk aşamada bir online izleme platformunda sunacağız. Akabinde bu platformu bir arşive dönüştürüp, şimdide olanın hafızasını tutmayı ve hatırlanabilir olmasını amaçlıyoruz. Güvenli olarak tekrar sokaklara döndüğümüzde ise PURESPACE’in Bomonti’de bulunan **PS02**’de düzenleyeceğimiz gecede buluşup yeniden bir arada olmayı ve yaşadığımız bu olağanüstü dönemin yankılarının başka işbirliklerine dönüşme potansiyelini kutlayacağız. Nihayetinde, **Ev Benim** projesini İstanbul şehri başta olmak üzere Ankara, Eskişehir, İzmir gibi lokasyonlarda da belli aralıklarla sergileyerek hem toplumsal farkındalığı hem de projenin sürdürülebilirliğini sağlamayı hedefliyoruz. 
 
-Performans videolarınızı (10 dakikayı geçmemeli), açıklama metni ve kısa artist biyografiniz ile en geç 30 Mayıs 2020 tarihine kadar purespace@purespace.ist adresine yollayabilirsiniz. Ek bilgi ve sorularınız için de bizimle aynı e-posta adresinden
-iletişime geçebilirsiniz.
+Performans videolarınızı (10 dakikayı geçmemeli), açıklama metni ve kısa artist biyografiniz ile en geç 30 Mayıs 2020 tarihine kadar purespace@purespace.ist adresine yollayabilirsiniz. Ek bilgi ve sorularınız için de bizimle aynı e-posta adresinden iletişime geçebilirsiniz.
