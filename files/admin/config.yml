@@ -37,8 +37,8 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Updated", name: "updated", widget: "datetime", required: false}
+      - {label: "Date", name: "date", widget: "datetime", required: false, default: ""}
+      - {label: "Updated", name: "updated", widget: "datetime", required: false, default: ""}
       - {label: "Status", name: "status", widget: "select", options: ["published", "featured", "draft", "private"], required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Category", name: "category", widget: "string", required: false}
