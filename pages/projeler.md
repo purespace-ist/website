@@ -1,6 +1,6 @@
 ---
 title: projeler
-body_class: projects
+type: projects
 ---
 ## Bir koreografinin imkanları: dijital ortamlar aracılılığıyla iş üretmek
 

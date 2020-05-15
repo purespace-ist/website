@@ -1,7 +1,7 @@
 ---
 slug: projects
 title: projects
-body_class: projects
+type: projects
 ---
 ## The possibilities of a choreography: creating through digital media
 

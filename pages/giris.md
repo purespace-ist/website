@@ -1,6 +1,6 @@
 ---
 title: purespace.ist
-body_class: landing
+type: landing
 ---
 PURESPACE bütün kültür ve sanat disiplinlerinde
 yaratıcı dönüşüme önayak olan ve arşivleyen,

@@ -1,7 +1,7 @@
 ---
 slug: intro
 title: purespace.ist
-body_class: landing
+type: landing
 ---
 PURESPACE is a multidisciplinary and inclusive formation
 that leads and archives creative transformation
