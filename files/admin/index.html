@@ -16,19 +16,31 @@
     var PostPreview = createClass({
       render: function() {
         var entry = this.props.entry;
-        return h('article', {"className": "post-text h-entry hentry postpage"},
-          h('header', {},
-            h('h1', {"className": "p-name entry-title"},
-              h('a', {"href": ".", "className": "u-url"}, entry.getIn(['data', 'title']))),
-            h('div', {"className": "metadata"},
-              h('p', {"className": "byline author vcard p-author h-card"},
-                h('span', {"className": "byline-name fn p-name"}, entry.getIn(['data', 'author']) || ' ')))),
-          h('div', {"className": "e-content entry-content"}, this.props.widgetFor('body'))
-        );
+        return h('main', {"id": "content"},
+          h('article', {"className": "post-text h-entry hentry postpage"},
+            h('header', {},
+              h('h1', {"className": "p-name entry-title"},
+                h('a', {"href": ".", "className": "u-url"}, entry.getIn(['data', 'title']))),
+              h('div', {"className": "metadata"},
+                h('p', {"className": "byline author vcard p-author h-card"},
+                  h('span', {"className": "byline-name fn p-name"}, entry.getIn(['data', 'author']) || ' ')))),
+            h('div', {"className": "e-content entry-content"}, this.props.widgetFor('body')))
+          );
       }
-  });
+    });
+
+    var PagePreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        return h('main', {"id": "content"},
+          h('section', {"className": "text"},
+            h('div', {"className": "e-content entry-content"}, this.props.widgetFor('body')))
+          );
+      }
+    });
 
     CMS.registerPreviewTemplate("posts", PostPreview);
+    CMS.registerPreviewTemplate("pages", PagePreview);
   </script>
 </body>
 </html>
