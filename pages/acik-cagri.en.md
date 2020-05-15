@@ -1,8 +1,6 @@
 ---
 slug: open-call
 title: open call
-date: ""
-updated: ""
 ---
 # OPEN CALL
 
