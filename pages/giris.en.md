@@ -2,8 +2,6 @@
 slug: intro
 title: purespace.ist
 type: landing
-date: ""
-updated: ""
 ---
 PURESPACE is a multidisciplinary and inclusive formation that leads and archives creative transformation in all cultural and artistic disciplines. It aims to make way for carrying the artists to a safer ground by believing in the necessity of a versatile view and assuming a facilitating role in increasing artistic productions and creating employment opportunities. It creates its own fields of study and research through thematic concepts. It develops relationships in the projections of the words to research, to learn, to experience and to produce.
 

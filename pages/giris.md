@@ -1,8 +1,6 @@
 ---
 title: purespace.ist
 type: landing
-date: ""
-updated: ""
 ---
 PURESPACE bütün kültür ve sanat disiplinlerinde yaratıcı dönüşüme önayak olan ve arşivleyen, çok-disiplinli ve kapsayıcı bir oluşumdur. Çok yönlü bakışın gerekliliğine inanarak, sanatsal üretimlerin artması ve bu alanda istihdam yaratılması için kolaylaştırıcı bir rol üstlenerek, günümüzde/şimdide sanatçının konumunu daha güvenli bir zemine taşımak için alan yaratmayı amaçlar. Tematik konseptler üzerinden kendi çalışma ve araştırma alanlarını oluşturur. Araştırmak, öğrenmek, deneyimlemek, üretmek kelimelerinin projeksiyonlarında ilişkiler geliştirir.
 
