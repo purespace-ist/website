@@ -1,4 +1,5 @@
 ---
+slug: houseisme
 title: house is me
 template: evbenim.tmpl
 data: data/evbenim.yaml
