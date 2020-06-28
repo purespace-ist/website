@@ -3,8 +3,19 @@ slug: projects
 title: projects
 type: projects
 ---
+- [House is me](#houseisme)
 - [Co-Solo](#cosolo)
 - [The possibilities of a choreography: creating through digital media](#possibilities-of-a-choreography)
+
+## House is me<a id="houseisme"></a>
+
+We, as PURESPACE, find it valuable in terms of creating a memory, to make the eclipses we are experiencing now visible on a creative platform and then to turn it into an archive through our project House is me.
+
+During this time that we are staying inside voluntarily, in our homes as a space, how do we relate to ourselves, to our body, and to all the things we interact with? How do the new distance and proximity definitions arising during this time, when the real and the virtual are interchanged, reflect on us?
+
+During the first stage of this project, we have presented the submitted works on an online viewing platform. Then, we aim to turn this platform into an archive, so all that is now will be remembered. When we are able to safely go back outside, we will organize a night at PURESPACE’s studio ps02 in Bomonti to celebrate being together again and the potential the echoes of what we just lived through holds for turning into new collaborations. Ultimately, we aim to provide both social awareness and sustainability of the project by displaying House is me project at locations such as Istanbul, Ankara, Eskişehir and İzmir at certain intervals.
+
+You can view the submitted short performance videos on the [House is me](../houseisme/) page.
 
 ## Co-Solo<a id="cosolo"></a>
 

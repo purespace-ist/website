@@ -2,8 +2,20 @@
 title: projeler
 type: projects
 ---
+- [Ev Benim](#evbenim)
 - [Co-Solo](#cosolo)
 - [Bir koreografinin imkanları: dijital ortamlar aracılılığıyla iş üretmek](#bir-koreografinin-imkanlari)
+
+
+## Ev Benim<a id="evbenim"></a>
+
+Bizler PURESPACE olarak başlattığımız **Ev Benim** projesiyle, şimdide yaşanan tutulmanın yaratıcı bir platformda görünürlük kazanmasını ve arşivlenmesini bir bellek yaratması açısından değerli buluyoruz.
+
+Gönüllü olarak içeride kaldığımız bu süreçte, bir mekan olarak evde, kendimizle, bedenimizle ve etkileştiğimiz şeylerle nasıl ilişki kuruyoruz? Sanal ve gerçeğin birbiriyle yer değiştirdiği bu dönemde doğan uzaklık ve yakınlık durumları bize nasıl yansıyor?
+
+Bu projede, gönderilen işleri ilk aşamada bir online izleme platformunda sunuldu. Akabinde bu platformu bir arşive dönüştürüp, şimdide olanın hafızasını tutmayı ve hatırlanabilir olmasını amaçlıyoruz. Güvenli olarak tekrar sokaklara döndüğümüzde ise PURESPACE’in Bomonti’de bulunan **PS02**’de düzenleyeceğimiz gecede buluşup yeniden bir arada olmayı ve yaşadığımız bu olağanüstü dönemin yankılarının başka işbirliklerine dönüşme potansiyelini kutlayacağız. Nihayetinde, **Ev Benim** projesini İstanbul şehri başta olmak üzere Ankara, Eskişehir, İzmir gibi lokasyonlarda da belli aralıklarla sergileyerek hem toplumsal farkındalığı hem de projenin sürdürülebilirliğini sağlamayı hedefliyoruz. 
+
+Bu proje kapsamında gönderilmiş olan kısa performans videolarına [Ev Benim](../evbenim/) sayfasından ulaşabilirsiniz.
 
 ## Co-Solo<a id="cosolo"></a>
 
