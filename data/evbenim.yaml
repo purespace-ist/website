@@ -1,0 +1,187 @@
+all:
+  - slug: Abarbanel_Ravid--Home_is_where_I_am
+    title: Home is where I am
+    by: Ravid Abarbanel
+  - slug: Acet_Cemal--Sadece_Sekiz_Dakikalik_Olay_1
+    title: Sadece Sekiz Dakikalık Olay - 1
+    by: Cemal Acet
+  - slug: Acet_Cemal--Sadece_Sekiz_Dakikalik_Olay_2
+    title: Sadece Sekiz Dakikalık Olay - 2
+    by: Cemal Acet
+  - slug: Acet_Cemal--Sadece_Sekiz_Dakikalik_Olay_3
+    title: Sadece Sekiz Dakikalık Olay - 3
+    by: Cemal Acet
+  - slug: Adam_Anna--Hot_Paper_Live_Love
+    title: Hot Paper Live Love
+    by: Anna Ádám
+  - slug: Augusto_Leonardo--Sobrado_Almeida
+    title: Sobrado Almeida
+    by: Leonardo Augusto
+  - slug: Bergmann_Helen--What_happens_to_my_heart
+    title: What happens to my heart
+    by: Helen Bergmann
+  - slug: Biagini_Elena--Planimetry_of_My_House
+    title: Planimetry of My House
+    by: Elena Biagini
+  - slug: Camolez_Natali--40_Days
+    title: 40 Days
+    by: Natali Camolez
+  - slug: Campagne_Isabelle--Me_and_my_conversation_with_Mrs._Quarantine
+    title: Me and my conversation with Mrs. Quarantine
+    by: Isabelle Campagne
+  - slug: Carter_Shion_Skye--my_jackets_are_my_friends
+    title: my jackets are my friends
+    by: Shion Skye Carter
+  - slug: Ceylan_Can_Berk--Comfort_Zone
+    title: Comfort Zone
+    by: Berk Can Ceylan
+  - slug: Champs_Dilek
+    title: No title
+    by: Dilek Champs
+  - slug: Champs_Steven
+    title: No title
+    by: Steven Champs
+  - slug: Cukurova_Nazli_Meric--Plants_see
+    title: Planimetry of My House
+    by: Nazlı Meriç Çukurova
+  - slug: DarZaid_Sharaf--Afro_Dabke
+    title: Afro Dabke
+    by: Sharaf DarZaid
+  - slug: Dias_Duna--Deserto
+    title: Deserto
+    by: Duna Dias
+  - slug: Dias_Duna--Saguaro
+    title: Saguaro
+    by: 'Duna Dias & Socorro Dias'
+  - slug: E.Sperimenti_Dance_Company--50MQ
+    title: 50MQ (50SquareMeters)
+    by: Federica Galimberti
+  - slug: Eden_Avital--I_gathered_here
+    title: I gathered here
+    by: Avital Eden
+  - slug: Faos_Dance_Company--Embody_Your_Home
+    title: Embody Your Home
+    by: Faos Dance Company
+  - slug: Fejos_Adrienn--Ironic
+    title: Ironic
+    by: Adrienn Fejős
+  - slug: Ferreira_Gisela--now_moving_into
+    title: now moving into
+    by: Gisela Ferreira
+  - slug: Flakorojas--INDOORS
+    title: INDOORS
+    by: Flakorojas
+  - slug: Funes_Diego--Absence
+    title: Absence
+    by: Diego Funes
+  - slug: Genckal_Fatih--Self-Portrait
+    title: Self-Portrait
+    by: Fatih Gençkal
+  - slug: Ito_Kaori--Depth
+    title: Depth
+    by: Kaori Ito
+  - slug: Kannewischer_Julia--PROJECT_EPHEMERIS
+    title: PROJECT EPHEMERIS
+    by: Julia Kannewischer
+  - slug: Kunktakan_Ezgi--Cruel
+    title: Cruel
+    by: Ezgi Künktakan
+  - slug: Kunktakan_Ezgi--Dunyanin_sonuna_ovgu
+    title: Dünyanın sonuna övgü
+    by: Ezgi Künktakan
+  - slug: Lin_Jasmine--when_life_gives_you_lemons
+    title: when life gives you lemons
+    by: Jasmine Lin
+  - slug: Makatow_Katia--U-WA_1
+    title: U-WĄ - 1
+    by: Katia Makatow
+  - slug: Makatow_Katia--U-WA_2
+    title: U-WĄ - 2
+    by: Katia Makatow
+  - slug: Nanda_Truth--Today_am_making_my_second_Friday_that_s_my_second_week_when_I_m_here_in_-_Kenyafe
+    title: Today am making my second Friday that's my second week when I'm here in - Kenyafe
+    by: Truth Nanda
+  - slug: Rosas_Alejandra--Home_Jungle
+    title: Home Jungle
+    by: Alejandra Rosas
+  - slug: Rostas_Manka--The_Realm_of_my_Self
+    title: The Realm of my Self
+    by: Manka Rostás
+  - slug: Rykner_Lena--Moving_along
+    title: Moving along
+    by: Lena Rykner
+  - slug: Santagado_Charly-Benoot_Bailey--The_Space_of_Grammer
+    title: The Grammar of Space
+    by: 'Charly Santagado & Bailey Benoot'
+  - slug: Schild_Emma--How_to_fail
+    title: How to fail
+    by: Emma Schild
+  - slug: Senel_Ufuk--An_intimate_material_A_blanket_for_two_people
+    title: 'An intimate material : A blanket for two people'
+    by: Ufuk Şenel
+  - slug: Sengor_Gizem--2020_de_pencereden_bahari_izlerken
+    title: 2020'de baharı pencereden izlerken
+    by: Gizem Şengör
+  - slug: Shepherd_Diana--Rungs
+    title: Rungs
+    by: Diana Shepherd
+  - slug: Shmeit_Lana--Final
+    title: Final
+    by: Lana Shmeit
+  - slug: SinTiempo--Bed_Boost_Times
+    title: Bed Boost Times
+    by: SinTiempo
+  - slug: Stefanovics_Anna--H-Artfelt
+    title: H-Artfelt
+    by: Anna Stefanovics
+  - slug: Strzelczyk_Klaudia--Canopee
+    title: Canopee
+    by: Klaudia Strzelczyk
+  - slug: Strzelczyk_Klaudia--Nana
+    title: Nana
+    by: Klaudia Strzelczyk
+  - slug: Strzelczyk_Klaudia--Roots_research
+    title: Roots research
+    by: Klaudia Strzelczyk
+  - slug: Strzelczyk_Klaudia--Sounds_of_ExLife_Movement_Storm
+    title: Sounds of ExLife Movement Storm
+    by: Klaudia Strzelczyk
+  - slug: Tasdan_Destan--Day_by_Day
+    title: Day by Day
+    by: Destan Taşdan
+  - slug: Toscano_Leonor--Social_Distancing
+    title: Social Distancing
+    by: Leonor Toscano
+  - slug: Toscano_Leonor--Stuck_with_U
+    title: Stuck with U
+    by: Leonor Toscano
+  - slug: Turker_Ezgi--Exist
+    title: Exi(s)t
+    by: Ezgi Türker
+  - slug: Turker_Ezgi-Uyar_Sima--Zoom_2
+    title: Zoom 2
+    by: 'Ezgi Türker & Şima Uyar'
+  - slug: Ugolini_Melissa--Home_Dance
+    title: Home Dance
+    by: Melissa Ugolini
+  - slug: Uyar_Sima--AEON
+    title: AEON
+    by: Şima Uyar
+  - slug: Uyar_Sima--Batshit_Crazy
+    title: Batsh*t Crazy
+    by: Şima Uyar
+  - slug: Vaishnavi_Valeska--Metacarpal
+    title: Metacarpal (Esmero Metacarpo)
+    by: Valeska Vaishnavi
+  - slug: Vaishnavi_Valeska--Seeking_stability
+    title: Seeking stability (Buscando Estabilidade)
+    by: Valeska Vaishnavi
+  - slug: Vaishnavi_Valeska--The_eyes_of_the_shadow
+    title: The eyes of the shadow (Os olhos da sombra)
+    by: Valeska Gonçalves
+  - slug: Vaishnavi_Valeska--The_garden
+    title: The garden (O jardim)
+    by: Erick Galdino
+  - slug: Yuksel_Sebnem--Ups_and_Downs
+    title: Ups and Downs
+    by: Şebnem Yüksel

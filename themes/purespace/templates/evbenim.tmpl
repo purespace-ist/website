@@ -1,0 +1,19 @@
+<%inherit file="page.tmpl"/>
+
+<%block name="extra_content">
+  <div class="flex four">
+  % for project in data['evbenim']['all']:
+<div>
+  <article class="card">
+    <a href="https://archive.org/details/${project['slug']}">
+      <img src="/images/evbenim/${project['slug']}.jpg">
+    </a>
+    <footer>
+      <em>${project['title']}</em><br>
+      ${project['by']}
+    </footer>
+  </article>
+</div>
+  % endfor
+  </div>
+</%block>
