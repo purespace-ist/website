@@ -163,3 +163,7 @@ p.social {
 p.social a:not(:first-child) {
   margin-left: $picnic-separation;
 }
+
+a {
+  text-decoration: underline;
+}
