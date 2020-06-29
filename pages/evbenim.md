@@ -9,6 +9,6 @@ Bizler PURESPACE olarak başlattığımız **Ev Benim** projesiyle, şimdide ya�
 
 Gönüllü olarak içeride kaldığımız bu süreçte, bir mekan olarak evde, kendimizle, bedenimizle ve etkileştiğimiz şeylerle nasıl ilişki kuruyoruz? Sanal ve gerçeğin birbiriyle yer değiştirdiği bu dönemde doğan uzaklık ve yakınlık durumları bize nasıl yansıyor?
 
-Bu çerçevede yaptığımız açık çağrıya karşılık olarak çeşitli sanatçıların bu süreçte evlerinde, kendi imkanlarıyla ürettitkleri videoları aşağıdaki galeride fotoğraflara tıklayarak izleyebilirsiniz.
+Bu çerçevede yaptığımız açık çağrıya karşılık olarak çeşitli sanatçıların bu süreçte evlerinde, kendi imkanlarıyla ürettikleri videoları aşağıdaki galeride fotoğraflara tıklayarak izleyebilirsiniz. Ayrıca bu videoları toplu halde [Internet Archive](https://archive.org/details/@purespace/) üzerinden de görebilirsiniz.
 
 ## Videolar

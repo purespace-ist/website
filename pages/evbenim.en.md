@@ -10,6 +10,6 @@ We, as PURESPACE, find it valuable in terms of creating a memory, to make the ec
 
 During this time that we are staying inside voluntarily, in our homes as a space, how do we relate to ourselves, to our body, and to all the things we interact with? How do the new distance and proximity definitions arising during this time, when the real and the virtual are interchanged, reflect on us?
 
-You can view the works that artists have produced during this time at their homes by their own means as a response to our open call by clicking on the thumbnail images in the gallery below.
+You can view the works that artists have produced during this time at their homes by their own means as a response to our open call by clicking on the thumbnail images in the gallery below. You can also see all the video through the [Internet Archive](https://archive.org/details/@purespace/) site.
 
 ## Videos

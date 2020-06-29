@@ -36,13 +36,13 @@ all:
     title: Comfort Zone
     by: Berk Can Ceylan
   - slug: Champs_Dilek
-    title: No title
+    title: NO TITLE
     by: Dilek Champs
   - slug: Champs_Steven
-    title: No title
+    title: NO TITLE
     by: Steven Champs
   - slug: Cukurova_Nazli_Meric--Plants_see
-    title: Planimetry of My House
+    title: Plants see
     by: Nazlı Meriç Çukurova
   - slug: DarZaid_Sharaf--Afro_Dabke
     title: Afro Dabke
@@ -110,7 +110,7 @@ all:
   - slug: Rykner_Lena--Moving_along
     title: Moving along
     by: Lena Rykner
-  - slug: Santagado_Charly-Benoot_Bailey--The_Space_of_Grammer
+  - slug: Santagado_Charly-Benoot_Bailey--The_Grammar_of_Space
     title: The Grammar of Space
     by: 'Charly Santagado & Bailey Benoot'
   - slug: Schild_Emma--How_to_fail
@@ -164,7 +164,7 @@ all:
   - slug: Ugolini_Melissa--Home_Dance
     title: Home Dance
     by: Melissa Ugolini
-  - slug: Uyar_Sima--AEON
+  - slug: Uyar_Sima---AEON
     title: AEON
     by: Şima Uyar
   - slug: Uyar_Sima--Batshit_Crazy
@@ -178,7 +178,7 @@ all:
     by: Valeska Vaishnavi
   - slug: Vaishnavi_Valeska--The_eyes_of_the_shadow
     title: The eyes of the shadow (Os olhos da sombra)
-    by: Valeska Gonçalves
+    by: Valeska Vaishnavi
   - slug: Vaishnavi_Valeska--The_garden
     title: The garden (O jardim)
     by: Erick Galdino
